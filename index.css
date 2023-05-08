@@ -10,7 +10,7 @@ h1{
 }
 
 header {
-    color: #060768;
+    color: #FFE81E;
     background-color: #000000;
     margin: -21px -8px;
 
@@ -55,7 +55,7 @@ footer nav a {
 }
 
 nav a:hover {
-    background-color: #060768;
+    background-color: #FFE81E;
     color: #fff;
     font-weight: 300;
 
@@ -93,7 +93,7 @@ nav a:active {
 
 
 #icon-nav-current {
-    background-color: #060768;
+    background-color: #FFE81E;
     color: #fff;
     font-weight: 200;
 
