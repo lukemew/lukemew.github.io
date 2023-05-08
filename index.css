@@ -2,6 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
     background: url(star-wars.jpg);
     background-color: #000000;
+    color: #FFE81E;
 }
 
 h1{
